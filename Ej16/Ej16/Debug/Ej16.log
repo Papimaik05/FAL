@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\migue\source\repos\FAL\Ej16\Ej16\Source.cpp(16,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\migue\source\repos\FAL\Ej16\Ej16\Source.cpp(30,23): warning C4018: '<': no coinciden signed/unsigned
+  Ej16.vcxproj -> C:\Users\migue\source\repos\FAL\Ej16\Debug\Ej16.exe

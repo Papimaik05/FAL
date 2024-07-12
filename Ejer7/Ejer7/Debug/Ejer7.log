@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\migue\source\repos\FAL\Ejer7\Ejer7\Source.cpp(20,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\migue\source\repos\FAL\Ejer7\Ejer7\Source.cpp(50,23): warning C4018: '<': no coinciden signed/unsigned
+  Ejer7.vcxproj -> C:\Users\migue\source\repos\FAL\Ejer7\Debug\Ejer7.exe

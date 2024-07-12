@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\G512\source\repos\Fal\Ej67\Ej67\Source.cpp(70,5): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej67.vcxproj -> C:\Users\G512\source\repos\Fal\Ej67\x64\Debug\Ej67.exe

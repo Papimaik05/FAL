@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\migue\source\repos\FAL\Ej34\Ej34\Source.cpp(62,14): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\migue\source\repos\FAL\Ej34\Ej34\Source.cpp(63,14): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  Ej34.vcxproj -> C:\Users\migue\source\repos\FAL\Ej34\Debug\Ej34.exe

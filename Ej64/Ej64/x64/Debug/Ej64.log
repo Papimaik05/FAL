@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\G512\source\repos\Fal\Ej64\Ej64\Source.cpp(95,89): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej64.vcxproj -> C:\Users\G512\source\repos\Fal\Ej64\x64\Debug\Ej64.exe

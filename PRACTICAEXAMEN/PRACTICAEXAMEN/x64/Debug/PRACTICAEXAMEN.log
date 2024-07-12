@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\G512\source\repos\Fal\PRACTICAEXAMEN\PRACTICAEXAMEN\Source.cpp(1,1): error C3873: '0xa1': este carácter no se permite como primer carácter de un identificador
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h(2361,1): error C2144: error de sintaxis: 'int' debe estar precedido de ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h(2361,8): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\migue\source\repos\FAL\Ej43\Ej43\Source.cpp(36,21): warning C4244: 'argumento': conversión de '__int64' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\migue\source\repos\FAL\Ej43\Ej43\Source.cpp(39,27): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Ej43.vcxproj -> C:\Users\migue\source\repos\FAL\Ej43\Debug\Ej43.exe

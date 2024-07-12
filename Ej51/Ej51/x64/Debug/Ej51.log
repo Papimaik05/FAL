@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\david\source\repos\FAL REPARACION\Ej51\Ej51\Source.cpp(78,38): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+C:\Users\david\source\repos\FAL REPARACION\Ej51\Ej51\Source.cpp(79,41): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+  Ej51.vcxproj -> C:\Users\david\source\repos\FAL REPARACION\Ej51\x64\Debug\Ej51.exe

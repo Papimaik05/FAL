@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\G512\source\repos\Fal\Ej68\Ej68\Source.cpp(11,140): error C2059: error de sintaxis: ')'
+C:\Users\G512\source\repos\Fal\Ej68\Ej68\Source.cpp(11,142): error C2143: error de sintaxis: falta ')' delante de '{'
+C:\Users\G512\source\repos\Fal\Ej68\Ej68\Source.cpp(48,15): error C2660: 'resolver': la función no acepta 0 argumentos
+C:\Users\G512\source\repos\Fal\Ej68\Ej68\Source.cpp(11,5): message : vea la declaración de 'resolver'
+C:\Users\G512\source\repos\Fal\Ej68\Ej68\Source.cpp(48,15): message : al hacer coincidir la lista de argumentos '()'

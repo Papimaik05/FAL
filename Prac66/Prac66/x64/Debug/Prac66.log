@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\G512\source\repos\Fal\Prac66\Prac66\Source.cpp(69,5): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Prac66.vcxproj -> C:\Users\G512\source\repos\Fal\Prac66\x64\Debug\Prac66.exe

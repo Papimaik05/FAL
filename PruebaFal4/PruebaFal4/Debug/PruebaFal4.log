@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\migue\source\repos\FAL\PruebaFal4\PruebaFal4\Source.cpp(18,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\migue\source\repos\FAL\PruebaFal4\PruebaFal4\Source.cpp(55,23): warning C4018: '<': no coinciden signed/unsigned
+  PruebaFal4.vcxproj -> C:\Users\migue\source\repos\FAL\PruebaFal4\Debug\PruebaFal4.exe

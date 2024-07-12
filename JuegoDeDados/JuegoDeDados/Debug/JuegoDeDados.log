@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\migue\source\repos\FAL\JuegoDeDados\JuegoDeDados\Source.cpp(17,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\migue\source\repos\FAL\JuegoDeDados\JuegoDeDados\Source.cpp(23,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\migue\source\repos\FAL\JuegoDeDados\JuegoDeDados\Source.cpp(58,23): warning C4018: '<': no coinciden signed/unsigned
+  JuegoDeDados.vcxproj -> C:\Users\migue\source\repos\FAL\JuegoDeDados\Debug\JuegoDeDados.exe
